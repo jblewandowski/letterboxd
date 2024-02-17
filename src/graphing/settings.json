@@ -1,0 +1,18 @@
+{
+    "colors": {
+        "bg": "#1a1c1f",
+        "text": "#ffffff",
+        "grid": "#414141",
+        "dark_grid": "#2C2D2E",
+        "tick": "ffffff",
+        "rating": {
+            "none": "#5d5f61",
+            "cmap": "viridis",
+            "reversed": false
+        },
+        "gradient": {
+            "avg": ["#ecc270", "#f5e67e"],
+            "count": ["#77d671", "#78b7ec"]
+        }
+    }
+}
